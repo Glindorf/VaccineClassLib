@@ -1,0 +1,12 @@
+C:\Code3Sem\VaccineClassLib\VaccineClassLib\bin\Debug\net5.0\VaccineClassLib.deps.json
+C:\Code3Sem\VaccineClassLib\VaccineClassLib\bin\Debug\net5.0\VaccineClassLib.dll
+C:\Code3Sem\VaccineClassLib\VaccineClassLib\bin\Debug\net5.0\ref\VaccineClassLib.dll
+C:\Code3Sem\VaccineClassLib\VaccineClassLib\bin\Debug\net5.0\VaccineClassLib.pdb
+C:\Code3Sem\VaccineClassLib\VaccineClassLib\obj\Debug\net5.0\VaccineClassLib.csprojAssemblyReference.cache
+C:\Code3Sem\VaccineClassLib\VaccineClassLib\obj\Debug\net5.0\VaccineClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code3Sem\VaccineClassLib\VaccineClassLib\obj\Debug\net5.0\VaccineClassLib.AssemblyInfoInputs.cache
+C:\Code3Sem\VaccineClassLib\VaccineClassLib\obj\Debug\net5.0\VaccineClassLib.AssemblyInfo.cs
+C:\Code3Sem\VaccineClassLib\VaccineClassLib\obj\Debug\net5.0\VaccineClassLib.csproj.CoreCompileInputs.cache
+C:\Code3Sem\VaccineClassLib\VaccineClassLib\obj\Debug\net5.0\VaccineClassLib.dll
+C:\Code3Sem\VaccineClassLib\VaccineClassLib\obj\Debug\net5.0\ref\VaccineClassLib.dll
+C:\Code3Sem\VaccineClassLib\VaccineClassLib\obj\Debug\net5.0\VaccineClassLib.pdb
